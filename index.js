@@ -97,10 +97,42 @@
 // console.log(S2); //=12.56
 // console.log(S3); //=3.14
 
-//14. Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin  
-var L = 20
-var R = L / (2 * pi)
-var S = pi * Math.pow(R,2)
-console.log(R); //=3.184713375796178
-console.log(S); //=31.847133757961778
+//14. Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin 
+// var L = 40
+// var R = L / (2 * pi)
+// var S = pi * Math.pow(R,2)
+// console.log(R); //=3.184713375796178
+// console.log(S); //=31.847133757961778
 
+//15. Aylananing yuzasi S berilgan. Uning diametri d va radiusi R aniqlansin 
+// var S = 60
+// var R = Math.sqrt(S / pi)
+// var d = 2 * R
+// console.log(d); //=8.74260378943872
+// console.log(R); //=4.37130189471936
+
+//16. Sonlar o`qida ikkita nuqta orasidagi masofa aniqlansin.
+// var x1 = 8
+// var x2 = 12
+// console.log(Math.abs(x2 - x1)); //=4
+
+//17. Sonlar o`qida A, B, C nuqtalar berilgan. AC va BC kesmalarning uzunligini va kesmalar uzunligining yig`indisini topuvchi programma tuzilsin.
+
+//18. Sonlar o`qida A, B, C nuqtalar berilgan. C nuqta A va B nuqtalar orasida joylashgan. AC va BC kesmalar uzunligining ko`paytmasini toping.
+
+//19. To`g`ri to`rtburchakning qarama–qarshi uchlari koordinatlari berilgan. Uning tomonlari koordinata o`qiga parallel. To`g`ri to`rtburchakning perimetri va yuzasi aniqlansin.
+
+//20. Tekislikdagi berilgan ikki nuqta (x1,y1) va (x2,y2) orasidagi masofa topilsin.
+// var x1 = 8
+// var x2 = 12
+// var y1 = 18
+// var y2 = 15
+// var absX = Math.abs(x2 - x1)
+// var absY = Math.abs(y2 - y1)
+// console.log(Math.sqrt(Math.pow(absX,2) + Math.pow(absY,2))); //=5
+
+//21. Uchburchakning uchta tomoni uchlari koordinatlari berilgan . Ikki nuqta orasidagi masofani topish 20 da berilgan. Uchburchakning yuzasini va perimatrini toping. 
+
+//22. Berilgan A va B sonlarining qiymatlarini almashtiring. A va B ning yangi qiymati ekranga chiqarilsin.
+
+//23. A, B va C sonlari berilgan. A ni qiymati B ga, B ni qiymati C ga va C ni qiymati A ga almashtirilsin. A, B va C ning yangi qiymatilari ekranga chiqarilsin.
